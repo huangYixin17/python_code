@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<menu>
+    <breakfast hours="7-11">
+        <tag cash="60">漢堡</tag>
+        <tag cash="40">牛奶</tag>
+    </breakfast>
+    <lunch hours="11-15">
+        <tag cash="150">義大利麵</tag>
+    </lunch>
+    <dinner hours="17-21">
+        <tag cash="200">牛排</tag>
+    </dinner>
+</menu>
